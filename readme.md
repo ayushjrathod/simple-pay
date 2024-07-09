@@ -1,4 +1,3 @@
-Sure, here are some additional sections and information that can enhance your README to align with standard practices:
 
 # Simple Pay
 
